@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">TourGuide</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="image">Image</string>
+    <string name="todo">TODO</string>
+    <string name="atv_biking">Atv biking</string>
+    <string name="wind_surfing">Wind Surfing</string>
+    <string name="boat_cruise">Boat cruise</string>
+    <string name="knee_boarding">Knee boarding</string>
+    <string name="parasailing">parasailing</string>
+    <string name="atv_desc">ATV (all-terrain vehicle)Adventures Goa in Ponda (has tracks spread over 5 acres with varying difficulty levels). Riders Club in Anjuna offers both natural and man-made tracks (1 km each).</string>
+    <string name="wind_desc">Windsurfing combines the aspects of both sailing and surfing. Places Offering Windsurfing: Dona Paula jetty, Miramar, Bogmalo, Vagator, Palolem.</string>
+    <string name="boat_desc">Located at the borders of Mhadei Wildlife Sanctuary. Goa Tourism Development Corporation has introduced whitewater river rafting here, which attracts tourists from India and abroad alike.</string>
+    <string name="knee_desc">Requiring less speed and balance than water skiing, wakeboarding is becoming more and more popular with water sports enthusiasts. Places Offering Wakeboarding: Mobor, Rajbaga, Candolim.</string>
+    <string name="parasailing_desc">Parasailing is one of the most popular adventure sports on offer in Goa.Places offering Parasailing: Arambol Beach, Baga Beach</string>
+
+
+    <string name="paliem_sweet_water">paliem sweet water</string>
+    <string name="Calanguta">Calanguta</string>
+    <string name="Anjuna">Anjuna</string>
+    <string name="baga">baga</string>
+    <string name="Palolem">Palolem</string>
+    <string name="anjuna_decs">Lively beach with water sport options</string>
+    <string name="baga_desc">Baga is a famous beach destination in North Goa that attracts thousands of tourists and watersports lovers to its heart.</string>
+    <string name="paliem_sweet_water_desc">Palm-edged freshwater lake fed by springs with a beach area and food shacks, also called Vagkolam.</string>
+    <string name="Calanguta_dsec">Calangute is a town in the North Goa district of the Indian state of Goa. It is famous for its beach, the largest in North Goa and a popular tourist destination. </string>
+    <string name="Palolem_dsec">Palolem Beach is situated in Canacona in southern Goa, India. The beach attracts many international tourists, mainly during the winter season between November and March. It is considered to be one of the regions most beautiful beaches.</string>
+
+
+    <string name="Hosteller">Hosteller</string><string name="Hosteller_dsec"> Humble dorms and private rooms in a casual hostel offering a garden, Wi-Fi and an open-air cafe.</string>
+    <string name="Tag_Resort">Tag Resort</string><string name="Tag_Resort_dsec"> Refined quarters, some with sea views, in a posh convention hotel featuring pools, a spa and dining.</string>
+    <string name="resort_hermitage">resort hermitage</string> <string name="resort_hermitage_desc">Peaceful area with relaxed accommodation and a buzzing, seasonal Saturday Night Market.</string>
+    <string name="Resort_prime">Resort prime bom terra</string><string name="Resort_prime_dsec"> Casual cottages in a rural hideaway offering French dining, an outdoor pool and free breakfast.</string>
+    <string name="Casio_pride">Casio pride</string> <string name="Casio_pride_desc">Cruise ship catering to gamblers</string>
+
+
+    <string name="Dudhsagar_Falls">Dudhsagar\'s Falls</string><string name="Dudhsagar_Falls_Decs">Dudhsagar Falls is a four-tiered waterfall located on the Mandovi River in the Indian state of Goa. Dudhsagar Falls is amongst India\'s tallest waterfalls with a height of 310 m and an average width of 30 metres.</string>
+    <string name="Shree_Mangesh">Shree Mangesh temple</string><string name="Shree_Mangesh_Dsec">This temple had its origins in Kushasthali Cortalim, a village in Saxty (Salcette) which fell to the invading Portuguese in 1543.  which was then ruled by the Hindu kings of Sonde </string>
+    <string name="shree_Shantadurga">"shree Shantadurga</string><string name="shree_Shatadurga_Dsec">Shri Shantadurga Saunsthan is a private temple complex belonging to the Goud Saraswat Brahman Samaj, located 30 km from Panaji at the foothill of Kavalem village in Ponda Taluka, Goa, India.  </string>
+    <string name="Viceryos">Viceroys Arch</string><string name="Viceryos_Dsec"> Arch of Viceroy, also known as Viceroy\'s Arch, was erected in 1599 in Goa, India, by Viceroy Francisco da Gama, the grandson of Vasco da Gama. The arch was restored in 1954 after it faced a collapse. It is an ASI protected Monument of National Importance in Goa</string>
+    <string name="Swayambhu">Swayambhu Shree Mahadev Mandir</string><string name="Swayambhu_Dsec"> Mahadeva Temple, Tambdi Surla is a 12th-century Shaivite temple in the Kadamba style dedicated to Lord Shiva and an active place of Hindu worship. It is an ASI protected Monument of National Importance in Goa.</string>
+    <string name="Ashiyana">Ashiyana Goa </string><string name="Ashiyana_Dsec">Welcome to our family-run retreat centre and guest house, found between Anjuna and Mapusa (Map~sa) in Goa, India. We offer an array of yoga retreats, workshops, yoga teacher trainings and yoga holidays in what we feel to be one of the best locations in Goa.</string>
+    <string name="Alex">St. Alex Church</string><string name="Alex_Dsec">St. Alex Church is situated in the most popular place and a tourist hotspot which is Calangute. </string>
+    <string name="Chapel">Chapel of Catherian</string><string name="Chapel_Dsec">The Chapel of St. Catherine is a UNESCO World Heritage Site located in Old Goa in the same compound as Se Cathedral and the Church and Convent of St. Francis of Assisi. It was built in 1510 in the Baroque architectural style, and has a brown and white facade.</string>
+</resources>
